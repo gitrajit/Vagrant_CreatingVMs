@@ -11,6 +11,9 @@ Vagrant to create multiple VMs including ansible control, DB, etc
 [~]$ mkdir workingDir
 [~]$ cd workingDir
 [~]$ vagrant init hashicorp/precise64
+```
+### Replace the vagrantfile with this vagrantfile
+```
 [~]$ vagrant up
 
 ```
